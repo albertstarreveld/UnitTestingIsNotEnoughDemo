@@ -1,0 +1,7 @@
+{
+  "stryker-config": {
+    "files-to-exclude": [
+      "./Program.cs"
+    ]
+  }
+}
